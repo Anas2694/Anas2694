@@ -12,6 +12,8 @@
 
 I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
+🔭 **Currently building [OwnTrace](https://github.com/Anas2694/owntrace)** — a personal digital-identity and privacy-control platform.
+
 <br clear="right" />
 
 ## Featured projects
@@ -21,7 +23,7 @@ I'm a full-stack developer who builds production-ready, cloud-deployed applicati
 | **PostVisit** | Turns medical reports into understandable health insights, trends, and contextual chat. | [Live](https://postvisit-healthcare.onrender.com) · [Code](https://github.com/Anas2694/PostVisit-healthcare) |
 | **ExitLens** | Tracks user behavior and converts sessions into actionable UX insights. | [Live](https://exitlens-app.onrender.com) · [Code](https://github.com/Anas2694/ExitLens) |
 | **UrbanStay** | Full-stack vacation-rental platform with listings, bookings, maps, reviews, and email notifications. | [Live](https://urbanstay-81ly.onrender.com) · [Code](https://github.com/Anas2694/UrbanStay) |
-| **OwnTrace** | Personal digital-identity and privacy-control platform with account discovery and breach checks. | [Code](https://github.com/Anas2694/owntrace) |
+| **OwnTrace** · _In active development_ | Personal digital-identity and privacy-control platform with account discovery and breach checks. | [Code](https://github.com/Anas2694/owntrace) |
 
 ## Skills and stack
 
