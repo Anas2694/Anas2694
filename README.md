@@ -9,11 +9,11 @@
 I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
 <p align="center">
-  <img width="40%" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
+  <img width="46%" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
-    <img width="56%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
+    <img width="50%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
   </picture>
 </p>
 
