@@ -8,8 +8,6 @@
 
 I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
-🔭 **Currently building [OwnTrace](https://github.com/Anas2694/owntrace)** — a personal digital-identity and privacy-control platform.
-
 <table>
   <tr>
     <td width="65%" valign="middle">
