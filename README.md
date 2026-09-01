@@ -10,11 +10,7 @@
   <img align="right" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
 </picture>
 
-- I build full-stack products that turn practical problems into clear, useful software.
-- I enjoy taking an idea from interface design to backend architecture, database modeling, integrations, and cloud deployment.
-- My recent work spans healthcare, user-behavior analytics, digital privacy, academic tools, and vacation rentals.
-- I care about responsive interfaces, secure authentication, maintainable APIs, and systems that remain reliable as they grow.
-- I am currently sharpening my backend, cloud, DevOps, and product-engineering skills through hands-on projects.
+I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
 <br clear="right" />
 
