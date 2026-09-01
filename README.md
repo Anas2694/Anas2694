@@ -40,15 +40,6 @@
 
 ## GitHub activity
 
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/touumsc9fku3j7ep7p5wtgsa-dark.svg?v=1788251337000">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/touumsc9fku3j7ep7p5wtgsa-light.svg?v=1788251337000">
-  <img alt="GitHub activity snapshot" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/touumsc9fku3j7ep7p5wtgsa-dark.svg?v=1788251337000">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">activity card by githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas2694/Anas2694/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas2694/Anas2694/output/github-contribution-grid-snake.svg" />
