@@ -8,20 +8,14 @@
 
 I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
-<table>
-  <tr>
-    <td width="65%" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
-        <img width="100%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
-      </picture>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="32%" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
+    <img width="64%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
+  </picture>
+</p>
 
 ## Featured projects
 
