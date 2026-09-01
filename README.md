@@ -16,6 +16,12 @@ I'm a full-stack developer who builds production-ready, cloud-deployed applicati
 
 <br clear="right" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
+  <img width="100%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
+</picture>
+
 ## Featured projects
 
 | Project | What it does | Links |
