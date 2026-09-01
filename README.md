@@ -6,21 +6,24 @@
 
 ## About me
 
-<picture>
-  <img align="right" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
-</picture>
-
 I'm a full-stack developer who builds production-ready, cloud-deployed applications. I work across responsive interfaces, scalable backends, multi-tenant architecture, APIs, databases, integrations, and deployment—turning practical ideas into useful products.
 
 🔭 **Currently building [OwnTrace](https://github.com/Anas2694/owntrace)** — a personal digital-identity and privacy-control platform.
 
-<br clear="right" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
-  <img width="100%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
-</picture>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/githubwallpaper-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/githubwallpaper-light.svg" />
+        <img width="100%" alt="Developer profile and GitHub activity snapshot" src="./assets/githubwallpaper-dark.svg" />
+      </picture>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
